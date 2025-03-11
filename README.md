@@ -1,12 +1,45 @@
-# Stick_Hero
-This project has been developed by:
+# Stick Hero Game  
 
-NAMAN GARG(2022602)
-PANKAJ KUMAR(2022346)
-In this project we have tried to implement some design patterns like FACTORY METHOD,SINGLETON PATTERN,STRATEGY PATTERN. There are classes like game engine,falling engine animation which are implemented on different OOPS principle.We have tried to give our best possible. HOW TO START THE GAME:
+## Developers  
+- **Naman Garg (2022602)**  
+- **Pankaj Kumar (2022346)**  
 
-To run the game we need two images ch_pixel.jpeg,final_sh.png which are there in resoueces folder which when saved in system their relative paths needs to be copied in line 66 of GameUI for final_sh.png and line 12 of cherry class. After that most probably it should run in any system.
-The main control in the Game is space bar which when pressed does all the required function while cursor press could also start or view some things.
-To revive the player from the lost state it needs 10 cherries in balance to be revived.
-Scores are saved and showed to user on main screen on right most extreme side.
-StickHeroGame class needs to be run to run the game.
+## Project Overview  
+This project implements key **design patterns** to enhance code structure and maintainability, including:  
+- Factory Method  
+- Singleton Pattern  
+- Strategy Pattern  
+
+The game is structured using **object-oriented programming (OOP) principles**, with core classes such as:  
+- `GameEngine`  
+- `FallingEngine`  
+- `Animation`  
+
+## How to Run the Game  
+
+### Prerequisites  
+Ensure that the following image files are present in the **resources folder**:  
+- `ch_pixel.jpeg`  
+- `final_sh.png`  
+
+### Setup Instructions  
+1. Save the required images in the system.  
+2. Update the **relative paths** in the following files:  
+   - Line **66** in `GameUI` for `final_sh.png`.  
+   - Line **12** in `Cherry` class for `ch_pixel.jpeg`.  
+
+After these steps, the game should run correctly on any system.  
+
+## Game Controls  
+- **Space Bar**: Main game interactions  
+- **Cursor Click**: Start or interact with elements  
+- **Revive Mechanism**: Requires **10 cherries** in balance to revive the player  
+
+## Features  
+- **Score Tracking**: Scores are saved and displayed on the main screen  
+- **Optimized Game Mechanics**  
+
+## Execution  
+Run the **`StickHeroGame`** class to start playing.  
+
+For any issues, please refer to the documentation or reach out to the developers.  
