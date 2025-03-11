@@ -1,6 +1,8 @@
 This project has been developed by:
+
 1. NAMAN GARG(2022602)
 2. PANKAJ KUMAR(2022346)
+
 In this project we have tried to implement some design patterns like FACTORY METHOD,SINGLETON PATTERN,STRATEGY PATTERN.
 There are classes like game engine,falling engine animation which are implemented on different OOPS principle.We have tried to give our best possible.
 HOW TO START THE GAME:
