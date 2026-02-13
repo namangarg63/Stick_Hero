@@ -1,4 +1,4 @@
-# Stick Hero Game  
+# Fortress Legends 
 
 ## Developers  
 - **Naman Garg (2022602)**  
